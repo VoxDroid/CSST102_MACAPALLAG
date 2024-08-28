@@ -2,4 +2,4 @@
 
 - **Name:** Mhar Anderi Macapallag
 - **C&Y:** BSCS 3B IS
-- **Subject Code:** CSST 102 | Advanced Presentation and Reasoning (IS 101)
+- **Subject Code:** CSST 102 | Basic Machine Learning (IS 102)
