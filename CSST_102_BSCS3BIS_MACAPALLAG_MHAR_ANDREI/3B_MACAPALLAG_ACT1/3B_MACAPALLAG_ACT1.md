@@ -1,3 +1,10 @@
+[Watch the video by clicking here](https://github.com/VoxDroid/CSST102_MACAPALLAG/blob/main/CSST_102_BSCS3BIS_MACAPALLAG_MHAR_ANDREI/3B_MACAPALLAG_ACT1/3B_MACAPALLAG_ACT1.mp4)
+
+<video width="640" height="360" controls>
+  <source src="https://github.com/VoxDroid/CSST102_MACAPALLAG/blob/main/CSST_102_BSCS3BIS_MACAPALLAG_MHAR_ANDREI/3B_MACAPALLAG_ACT1/3B_MACAPALLAG_ACT1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 # Overview of Machine Learning
 
 **MHAR ANDREI C. MACAPALLAG**  
